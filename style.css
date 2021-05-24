@@ -1,0 +1,92 @@
+
+h1{
+    color: rgb(168, 0, 0);
+}
+
+
+  
+body{
+background-color: wheat;
+    }
+    .header{
+        background-color: peachpuff;
+    }
+    
+    .dog img{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+     
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .fish img {
+        display: flex;
+        
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .frog img {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .crane img {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .header img{
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm; 
+    }
+    a:link{
+        color :crimson
+    }
+    a:visited{
+        color:rgb(58, 0, 97)
+    }
+    .basics h1{
+display : flex
+
+    }
+    .tiger img {
+        display: flex;
+        
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .horse img {
+        display: flex;
+        
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .chameleon img {
+        display: flex;
+        
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .rabbit img {
+        display: flex;
+        
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+   
